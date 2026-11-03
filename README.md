@@ -7,7 +7,7 @@
 - No Third Party Apis
 - Full Requests
 - Need Proxies
-- User & Page: Follow
+- User & Page: Follow & Add Friend
 - Group: Join, Share
 - Reels & Post: Like, Comment, Save, Share, Downloand API
 - Live Stream: View, Like, Comment, Share
